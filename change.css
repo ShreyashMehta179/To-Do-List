@@ -1,0 +1,22 @@
+.box
+{
+    color:black;
+    margin-left:530px;
+    margin-top:300px;
+   border:ridge;
+   height:auto;
+   width: 450px;;
+   background-image:url("https://static.vecteezy.com/system/resources/thumbnails/048/284/720/small/simple-soft-blank-subtle-cream-horizontal-plain-background-with-decorative-mandala-artwork-texture-vector.jpg");
+   border-color: black;
+   border-radius: 20px;
+
+}
+body
+{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/042/664/560/non_2x/elegant-light-yellow-saffron-gold-horizontal-background-with-citrus-mandala-harmony-design-vector.jpg");
+    background-size:cover;
+}
+.set
+{
+    text-align: center;
+}
